@@ -1,0 +1,15 @@
+2021-11-01 11:14:56,513: root - INFO - Testing import data: SUCCESS
+2021-11-01 11:14:57,299: root - INFO - Testing perform_eda: SUCCESS, images generated
+2021-11-01 11:14:57,299: root - INFO - Testing perform_eda: SUCCESS, images generated
+2021-11-01 11:14:57,299: root - INFO - Testing perform_eda: SUCCESS, images generated
+2021-11-01 11:14:57,299: root - INFO - Testing perform_eda: SUCCESS, images generated
+2021-11-01 11:14:57,300: root - INFO - Testing perform_eda: SUCCESS, images generated
+2021-11-01 11:14:57,644: root - INFO - Testing encoder_helper: SUCCESS, all categorical features encoded
+2021-11-01 11:14:57,995: root - INFO - Testing feature_engineering: SUCCESS, train and test sets generated
+2021-11-01 11:18:04,734: root - INFO - Testing train_models: SUCCESS, models have been registered
+2021-11-01 11:18:04,734: root - INFO - Testing train_models: SUCCESS - image reports generated
+2021-11-01 11:18:04,734: root - INFO - Testing train_models: SUCCESS - image reports generated
+2021-11-01 11:18:04,734: root - INFO - Testing train_models: SUCCESS - image reports generated
+2021-11-01 11:18:04,734: root - INFO - Testing train_models: SUCCESS - image reports generated
+2021-11-01 11:18:04,734: root - INFO - Testing train_models: SUCCESS - image reports generated
+2021-11-01 11:18:04,734: root - INFO - Testing train_models: SUCCESS - image reports generated
